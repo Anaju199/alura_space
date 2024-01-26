@@ -176,3 +176,4 @@ cython_debug/
 /.vs/alura_space/FileContentIndex/5b6bbe26-d4d5-4e78-98a1-d6e5010bb94d.vsidx
 /.vs/alura_space/FileContentIndex/8c1bb095-495c-472e-b900-2dda027176d0.vsidx
 /.vs/alura_space/FileContentIndex/3a669ae6-6bd6-408e-8995-223be95a30f2.vsidx
+*.vsidx

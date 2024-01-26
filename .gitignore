@@ -172,5 +172,6 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
-/.gitignore
-/.vs/alura_space/FileContentIndex
+/.vs/alura_space/FileContentIndex/3dbb4adf-cdde-48bd-8ac9-dbdfe1f9f2dd.vsidx
+/.vs/alura_space/FileContentIndex/5b6bbe26-d4d5-4e78-98a1-d6e5010bb94d.vsidx
+/.vs/alura_space/FileContentIndex/8c1bb095-495c-472e-b900-2dda027176d0.vsidx
